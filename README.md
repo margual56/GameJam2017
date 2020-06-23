@@ -1,5 +1,6 @@
 # GameJam2017
-Game developed in 5 days for the Game Jam of June 2017.
+Game developed in 5 days for the Game Jam of June 2017.<br/>
+[Here](https://youtu.be/WXBG8QKQuAw) is a video that shows off the intended final result.
 
 ## Enviroment
 This project was made using Unreal Engine version 4.21 and transferred into Unreal Engine version 4.25 (so to open it, use version 4.25).<br/>
