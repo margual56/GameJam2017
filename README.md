@@ -10,8 +10,8 @@ The theme was "Blessing in desguise".<br/>
 We ended up in the 80th position because of a bug that turned the screen black after entering into the wooden house, so it was unplayable beyond that point.
 
 ## Authors
-<ins>Robert Martínez Lewis</ins> is the voice of the main character and the ghosts. He did the 3D models and some of the programming.
+<ins>Robert Martínez Lewis</ins> is the voice of the main character and the ghosts. He did the 3D models and some of the programming.<br/>
 I (<ins>Marcos Gutiérrez Alonso</ins>) did the programming, including the AI and the game mechanics.
 
-##License
+## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
